@@ -11,7 +11,7 @@ Census data: "ACS_state_data.csv"
 Map projection: "cb_2018_us_state_500k..." (need .shp, .shx, and .dbf to load)
 
 
-
+___________
 
 FOR CONGRESSIONAL MAPS — "congressional_model_works_mrp.R"
 
@@ -21,7 +21,7 @@ Census data: "District_level_census_dat..." (need .shp, .shx, and .dbf to load)
 
       NOTE: States with 1 congressional district excluded, as their values are the same as in the state map and I will just import those polygons at the final stage once we think the model looks good. 
       
-      
+___________
       
       
 RANDOM FOREST TEST FOR MODEL PREDICTIVE ACCURACY
