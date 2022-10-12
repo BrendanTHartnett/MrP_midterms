@@ -1,6 +1,5 @@
 # MrP_midterms
 
-Hi Professor Schaffner! Thank you so much for looking this over. Here's a general overview of the workflow.
 
 FOR STATE MAPS — "state_model_works_mrp.R"
 
